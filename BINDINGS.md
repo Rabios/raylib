@@ -41,7 +41,7 @@ Here it is a list with the ones I'm aware of:
 | raylib-pas         | 3.0 | [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))         | https://github.com/tazdij/raylib-pas      |
 | Ray4Laz            | 3.5 | [Pascal](https://en.wikipedia.org/wiki/Pascal_(programming_language))         | https://github.com/GuvaCode/Ray4Laz      | 
 | Graphics-Raylib    | ? | [Perl](https://www.perl.org/)            | https://github.com/athreef/Graphics-Raylib      |
-| raylib-ruby-ffi    | ? | [Ruby](https://www.ruby-lang.org/en/)    | https://github.com/D3nX/raylib-ruby-ffi      |
+| raylib-ruby-ffi    | 2.0 | [Ruby](https://www.ruby-lang.org/en/)    | https://github.com/D3nX/raylib-ruby-ffi      |
 | raylib-ruby        | 2.6 | [Ruby](https://www.ruby-lang.org/en/)    | https://github.com/a0/raylib-ruby        |
 | raylib-mruby       | ? | [mruby](https://github.com/mruby/mruby)  | https://github.com/lihaochen910/raylib-mruby    |
 | raylib-py          | 2.0 | [Python](https://www.python.org/)        | https://github.com/overdev/raylib-py       |
